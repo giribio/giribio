@@ -29,15 +29,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/twitter.svg" alt="giribio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/linked-in-alt.svg" alt="giribio" height="30" width="40" /></a>
-<a href="https://kaggle.com/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/kaggle.svg" alt="giribio" height="30" width="40" /></a>
-<a href="https://fb.com/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/facebook.svg" alt="giribio" height="30" width="40" /></a>
-<a href="https://instagram.com/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/instagram.svg" alt="giribio" height="30" width="40" /></a>
-<a href="https://medium.com/@giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/medium.svg" alt="@giribio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/youtube.svg" alt="giribio" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/leet-code.svg" alt="giribio" height="30" width="40" /></a>
-<a href="/https://anchor.fm/s/1eabf400/podcast/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/rss.svg" alt="https://anchor.fm/s/1eabf400/podcast/rss" height="30" width="40" /></a>
+<a href="https://twitter.com/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="giribio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giribio" height="30" width="40" /></a>
+<a href="https://kaggle.com/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="giribio" height="30" width="40" /></a>
+<a href="https://fb.com/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="giribio" height="30" width="40" /></a>
+<a href="https://instagram.com/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giribio" height="30" width="40" /></a>
+<a href="https://medium.com/@giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@giribio" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="giribio" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/giribio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="giribio" height="30" width="40" /></a>
+<a href="/https://anchor.fm/s/1eabf400/podcast/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://anchor.fm/s/1eabf400/podcast/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

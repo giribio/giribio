@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giribio&label=Profile%20views&color=0e75b6&style=flat" alt="giribio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giribio" alt="giribio" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/giribio" target="blank"><img src="https://img.shields.io/twitter/follow/giribio?logo=twitter&style=for-the-badge" alt="giribio" /></a> </p>
 
 - 🔭 I’m currently working on **Longevity, Aging & ML in Drug Discovery**

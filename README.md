@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python, pyTorch and TensorFlow**
 
-- 👯 I’m looking to collaborate on **Drug Discovery**
+- 👯 I’m looking to collaborate on **Drug Discovery and Aging**
 
 - 🤝 I’m looking for help with **Longevity studies on Indian Population**
 

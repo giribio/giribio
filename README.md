@@ -14,15 +14,15 @@
 
 - 🤝 I’m looking for help with **Longevity studies on Indian Population**
 
-- 👨‍💻 All of my projects are available at [bit.ly/giribio20](https://bit.ly/giribio20)
+- 👨‍💻 All of my projects are available at [Personal Webpage](https://www.giribio.in)
 
-- 📝 I regularly post podcasts on [anchor.fm/giribio](https://anchor.fm/giribio)
+- 📝 I regularly post podcasts on [Drug Discovery Podcast](https://anchor.fm/giribio)
 
 - 💬 Ask me about **MD Simulation, NAMD, Drug Discovery and Research Support**
 
-- 📫 How to reach me **giribio@aol.in**
+- 📫 How to reach me **giribio @ aol.in**
 
-- 📄 Know about my experiences [linkedin.com/in/giribio](https://linkedin.com/in/giribio)
+- 📄 Know about my experiences [Linkedin](https://linkedin.com/in/giribio)
 
 - ⚡ Fun fact **I think I talk a lot and try to motivate youngsters**
 

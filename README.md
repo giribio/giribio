@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Girinath Pillai aka giribio</h1>
-<h3 align="center">Lead Scientist | Computational Modeller | BioAI & Longevity Researcher</h3>
+<h3 align="center">Principal Scientist | Computational Modeller | BioAI & Longevity Researcher</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=giribio&label=Profile%20views&color=0e75b6&style=flat" alt="giribio" />
   <a href="https://x.com/giribio" target="blank"><img src="https://img.shields.io/twitter/follow/giribio?logo=x&style=flat-square" alt="giribio" /></a>
